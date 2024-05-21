@@ -141,7 +141,7 @@ public class ScannerInput {
 		if(pass.equalsIgnoreCase(password)) {
 			System.out.println("Login successful");
 			ScannerInput.all();
-			attempt=true;
+			//attempt=true;
 		}else {
 			
 			i++;
